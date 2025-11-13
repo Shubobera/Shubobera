@@ -2,9 +2,9 @@
 
 ### Exploring penetration testing and system security
 
--  I'm currently working on ###Learning exploit development and secure coding  
+-  I'm currently working on **Learning exploit development and secure coding**  
 
--  I'm currently learning ###Security: Nmap, Burp Suite, Metasploit, Wireshark 
+-  I'm currently learning **Security: Nmap, Burp Suite, Metasploit, Wireshark** 
 
 -  How to reach me **sandhyashubomanasi@gmail.com**
 
